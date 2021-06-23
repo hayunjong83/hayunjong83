@@ -1,7 +1,15 @@
 ### Medical A.I. Engineer
+- Deep Learning Engineer in Hallym Medical A.I. Center
+- Passionate researcher in Computer Vision field
+
+### Interest
+- Self-supervised Learning
+- GPU utilization enhancement ( related to CUDA )
+- PyTorch, PyTorch Lightning, Hydra
+- Web development using MERN
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yun-jong-ha-4368781a1/)](https://www.linkedin.com/in/yun-jong-ha-4368781a1/)
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hayunjong83@gmail.com)](mailto:hayunjong83@gmail.com)
 
 <!--
