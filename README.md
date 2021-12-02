@@ -1,9 +1,10 @@
-### Medical A.I. Engineer
-- Deep Learning Engineer in Hallym Medical A.I. Center
+### Computer Vision Engineer
+- Deep Learning Engineer in VisualCamp
 - Passionate researcher in Computer Vision field
 
 ### Interest
-- Self-supervised Learning
+- Appearance-base Gaze estimation
+- Generative models related to Gaze Redirection
 - GPU utilization enhancement ( related to CUDA )
 - PyTorch, PyTorch Lightning, Hydra
 - Web development using MERN
