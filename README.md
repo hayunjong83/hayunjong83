@@ -13,10 +13,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yun-jong-ha-4368781a1/)](https://www.linkedin.com/in/yun-jong-ha-4368781a1/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hayunjong83@gmail.com)](mailto:hayunjong83@gmail.com)
 
-<!--![hayunjong83's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayunjong83&show_icons=true&theme=vue-dark) -->
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hayunjong83&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="hayunjong83's github stats" /> | 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayunjong83&layout=compact&theme=buefy&hide_border=true" />
+![hayunjong83's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayunjong83&show_icons=true&theme=vue)
 
 <!--
 **hayunjong83/hayunjong83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
