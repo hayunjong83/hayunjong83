@@ -14,6 +14,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hayunjong83@gmail.com)](mailto:hayunjong83@gmail.com)
 
 ![hayunjong83's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayunjong83&show_icons=true&theme=vue-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayunjong83)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hayunjong83/hayunjong83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
