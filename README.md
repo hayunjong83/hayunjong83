@@ -5,6 +5,7 @@
 ### Interest
 - Appearance-base Gaze estimation
 - Generative models related to Gaze Redirection
+- LLM(Large Language Model)
 - GPU utilization enhancement ( related to CUDA )
 - PyTorch, PyTorch Lightning, Hydra
 - Web development using MERN
